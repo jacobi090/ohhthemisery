@@ -1,1 +1,3 @@
-# ohhthemisery
+# Ohh the misery!
+<img width="966" height="168" alt="image" src="https://github.com/user-attachments/assets/41fc3e30-c960-4b99-8cb5-c566b629840b" />
+A website that calls out tech companies for bad decisions, laziness, legal violations, and more...ouf...the misery...
