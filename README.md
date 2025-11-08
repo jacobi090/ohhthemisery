@@ -1,5 +1,6 @@
 # Ohh the misery! - Exposing sh*tty behaviors by companies
-<img width="966" height="168" alt="image" src="https://github.com/user-attachments/assets/41fc3e30-c960-4b99-8cb5-c566b629840b" height="300px" /><br>
+<img width="1309" height="268" alt="image" src="https://github.com/user-attachments/assets/be394d93-7609-49c3-9ed2-b58ea147118f" />
+
 
 **Exposing how terrible some companies can be with their customers and users.**
 
